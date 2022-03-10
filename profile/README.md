@@ -1,4 +1,4 @@
-## Technically Functional
+## 5-HT<sub>2B</sub>
 
 Currently the only available project published here is Heartbeat. Stay tuned for more in the future.
 
