@@ -2,7 +2,7 @@
 
 Currently the only available project published here is Heartbeat. Stay tuned for more in the future.
 
-## Heartbeat: Getting Started
+### Heartbeat: Getting Started
 
 - What is Heartbeat?
 
